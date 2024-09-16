@@ -7,6 +7,7 @@ This is an image resized desktop application built with Electron.js. It allows y
 1. Clone the repository
 2. Run `npm install`
 3. Run `npm start`
+4. Run `npm run make` to build the executable file
 
 ## Usage
 
