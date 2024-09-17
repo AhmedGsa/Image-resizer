@@ -1,6 +1,6 @@
 # Image Resized
 
-This is an image resized desktop application built with Electron.js. It allows you to resize images to a custom size.
+This is an image resizer desktop application built with Electron.js. It allows you to resize images to a custom size.
 
 ## Installation
 
