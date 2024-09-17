@@ -1,4 +1,4 @@
-# Image Resized
+# Image Resizer
 
 This is an image resizer desktop application built with Electron.js. It allows you to resize images to a custom size.
 
